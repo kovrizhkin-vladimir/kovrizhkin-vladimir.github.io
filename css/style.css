@@ -1,0 +1,74 @@
+.product {
+	margin: 20px 20px 20px 20px;
+	width: 250px;
+	height: :350px;
+	float: left;
+	text-align: center;
+	border: solid 2px #30A8E6;
+}
+.product-text {
+	height: 200px;
+	font-size: 14pt;
+	padding: 5px 10px 5px 10px;
+}
+.product-title {
+	font-size: 16pt;
+	padding: 5px 10px 5px 10px;
+	font-weight: 600;
+}
+#about {
+	float:right;
+}
+body {
+    font-family: "Times new roman";
+    font-size: 24px;
+}
+
+.main_container {
+    width: 900px;
+    margin:0 auto;
+}
+
+.logo-pic {
+ float: left;
+}
+
+.left-part {
+    float: left;
+    text-align: left;
+}
+
+.right-part {
+    float: right;
+    clear: right;
+    text-align: right;
+}
+
+ul {
+    list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем отступы*/
+  padding-left: 0; /*убираем отступы*/
+  margin-top:25px; /*делаем отступ сверху*/
+	float: left;
+}
+li {
+    float:left; /*Размещаем список горизонтально для реализации меню*/
+  margin-right:5px; /*Добавляем отступ у пунктов меню*/
+}
+
+a {
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  background:#30A8E6; /*добавляем фон к пункту меню*/
+  color:#fff; /*меняем цвет ссылок*/
+  padding:10px; /*добавляем отступ*/
+  font-family: arial; /*меняем шрифт*/
+  border-radius:4px; /*добавляем скругление*/
+}
+
+a:hover {
+  background:#1C85BB;/*добавляем эффект при наведении*/
+}
+
+.main-pic {
+    margin-top: 10px;
+}
