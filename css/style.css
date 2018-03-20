@@ -14,7 +14,7 @@ body {
 }
 
 .product-text {
-	height: 200px;
+	height: 150px;
 	font-size: 14pt;
 	padding: 5px 10px 5px 10px;
 }
@@ -81,4 +81,8 @@ a:hover {
 
 .button-up {
 	float: right;
+}
+
+p {
+	text-align: justify;
 }
