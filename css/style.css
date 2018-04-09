@@ -9,7 +9,7 @@ body {
 	float: left;
 	text-align: center;
 	border: solid 2px #30A8E6;
-	border-radius: 5px;
+	border-radius: 25px;
 }
 .product-text {
 	height: 150px;
@@ -30,6 +30,7 @@ body {
 }
 .logo-pic {
 	float: left;
+	height: 150px;
 }
 .left-part {
 	float: left;
@@ -39,6 +40,16 @@ body {
 	float: right;
 	clear: right;
 	text-align: right;
+}
+img.left {
+	float: left;
+	height: 200px;
+	padding: 5px 10px 5px 0px;
+}
+img.right {
+	float: right;
+	height: 200px;
+	padding: 5px 0px 5px 10px;
 }
 ul {
 	list-style: none;
@@ -80,6 +91,10 @@ a:hover {
 }
 .button-up {
 	float: right;
+}
+.copyright {
+	font-size: 12px;
+	text-align: center;
 }
 p {
 	text-align: justify;
