@@ -1,6 +1,7 @@
 body {
 	font-family: "Times new roman";
 	font-size: 24px;
+	color: #234175;
 }
 .product {
 	margin: 20px 20px 20px 20px;
@@ -71,7 +72,7 @@ li {
 a {
 	text-decoration: none;
 	/*убираем подчеркивание текста ссылок*/
-	background: #30A8E6;
+	background: #234175;
 	/*добавляем фон к пункту меню*/
 	color: #fff;
 	/*меняем цвет ссылок*/
@@ -83,7 +84,7 @@ a {
 	/*добавляем скругление*/
 }
 a:hover {
-	background: #1C85BB;
+	background: #134ECC;
 	/*добавляем эффект при наведении*/
 }
 .main-pic {
