@@ -3,45 +3,54 @@ body {
 	font-size: 24px;
 	color: #234175;
 }
+
 .product {
 	margin: 20px 20px 20px 20px;
 	width: 250px;
-	height: : 300px;
+	height:: 300px;
 	float: left;
 	text-align: center;
 	border: solid 2px #30A8E6;
 	border-radius: 30px;
 }
+
 .product-text {
 	height: 150px;
 	font-size: 14pt;
 	padding: 5px 10px 5px 10px;
 }
+
 .product-title {
 	font-size: 16pt;
 	padding: 5px 10px 5px 10px;
 	font-weight: 600;
 }
+
 #about {
 	float: right;
 }
+
 .main_container {
 	width: 900px;
 	margin: 0 auto;
 }
+
 .logo-pic {
 	float: left;
 	height: 150px;
 }
+
 .left-part {
 	float: left;
 	text-align: left;
 }
+
 .right-part {
 	float: right;
 	clear: right;
 	text-align: right;
 }
+<<<<<<< HEAD
 img.left {
 	float: left;
 	height: 200px;
@@ -52,24 +61,24 @@ img.right {
 	height: 200px;
 	padding: 5px 0px 5px 10px;
 }
+=======
+
+>>>>>>> parent of 5d65f74... Clean code
 ul {
-	list-style: none;
-	/*убираем маркеры списка*/
-	margin: 0;
-	/*убираем отступы*/
-	padding-left: 0;
-	/*убираем отступы*/
-	margin-top: 25px;
-	/*делаем отступ сверху*/
+	list-style: none; /*убираем маркеры списка*/
+	margin: 0; /*убираем отступы*/
+	padding-left: 0; /*убираем отступы*/
+	margin-top: 25px; /*делаем отступ сверху*/
 	float: left;
 }
+
 li {
-	float: left;
-	/*Размещаем список горизонтально для реализации меню*/
-	margin-right: 10px;
-	/*Добавляем отступ у пунктов меню*/
+	float: left; /*Размещаем список горизонтально для реализации меню*/
+	margin-right: 10px; /*Добавляем отступ у пунктов меню*/
 }
+
 a {
+<<<<<<< HEAD
 	text-decoration: none;
 	/*убираем подчеркивание текста ссылок*/
 	background: #234175;
@@ -82,21 +91,40 @@ a {
 	/*меняем шрифт*/
 	border-radius: 4px;
 	/*добавляем скругление*/
+=======
+	text-decoration: none; /*убираем подчеркивание текста ссылок*/
+	background: #30A8E6; /*добавляем фон к пункту меню*/
+	color: #fff; /*меняем цвет ссылок*/
+	padding: 10px; /*добавляем отступ*/
+	font-family: arial; /*меняем шрифт*/
+	border-radius: 4px; /*добавляем скругление*/
+>>>>>>> parent of 5d65f74... Clean code
 }
+
 a:hover {
+<<<<<<< HEAD
 	background: #134ECC;
 	/*добавляем эффект при наведении*/
+=======
+	background: #1C85BB;/*добавляем эффект при наведении*/
+>>>>>>> parent of 5d65f74... Clean code
 }
+
 .main-pic {
 	margin-top: 10px;
 }
+
 .button-up {
 	float: right;
 }
+<<<<<<< HEAD
 .copyright {
 	font-size: 12px;
 	text-align: center;
 }
+=======
+
+>>>>>>> parent of 5d65f74... Clean code
 p {
 	text-align: justify;
 }
