@@ -3,6 +3,7 @@ body {
 	font-size: 24px;
 	color: #234175;
 }
+
 .product {
 	margin: 20px 20px 20px 20px;
 	width: 250px;
@@ -12,46 +13,56 @@ body {
 	border: solid 2px #30A8E6;
 	border-radius: 30px;
 }
+
 .product-text {
 	height: 150px;
 	font-size: 14pt;
 	padding: 5px 10px 5px 10px;
 }
+
 .product-title {
 	font-size: 16pt;
 	padding: 5px 10px 5px 10px;
 	font-weight: 600;
 }
+
 #about {
 	float: right;
 }
+
 .main_container {
 	width: 900px;
 	margin: 0 auto;
 }
+
 .logo-pic {
 	float: left;
 	height: 150px;
 }
+
 .left-part {
 	float: left;
 	text-align: left;
 }
+
 .right-part {
 	float: right;
 	clear: right;
 	text-align: right;
 }
+
 img.left {
 	float: left;
 	height: 200px;
 	padding: 5px 10px 5px 0px;
 }
+
 img.right {
 	float: right;
 	height: 200px;
 	padding: 5px 0px 5px 10px;
 }
+
 ul {
 	list-style: none;
 	/*убираем маркеры списка*/
@@ -63,12 +74,14 @@ ul {
 	/*делаем отступ сверху*/
 	float: left;
 }
+
 li {
 	float: left;
 	/*Размещаем список горизонтально для реализации меню*/
 	margin-right: 10px;
 	/*Добавляем отступ у пунктов меню*/
 }
+
 a {
 	text-decoration: none;
 	/*убираем подчеркивание текста ссылок*/
@@ -83,20 +96,25 @@ a {
 	border-radius: 4px;
 	/*добавляем скругление*/
 }
+
 a:hover {
 	background: #134ECC;
 	/*добавляем эффект при наведении*/
 }
+
 .main-pic {
 	margin-top: 10px;
 }
+
 .button-up {
 	float: right;
 }
+
 .copyright {
 	font-size: 12px;
 	text-align: center;
 }
+
 p {
 	text-align: justify;
 }
