@@ -78,8 +78,9 @@ ul {
 li {
 	float: left;
 	/*Размещаем список горизонтально для реализации меню*/
-	margin-right: 10px;
+	margin-right: 5px;
 	/*Добавляем отступ у пунктов меню*/
+	margin-left: 5px;
 }
 
 a {
@@ -93,7 +94,7 @@ a {
 	/*добавляем отступ*/
 	font-family: arial;
 	/*меняем шрифт*/
-	border-radius: 4px;
+	border-radius: 3px;
 	/*добавляем скругление*/
 }
 
