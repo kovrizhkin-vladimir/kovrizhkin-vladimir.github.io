@@ -4,6 +4,13 @@ body {
 	color: #234175;
 }
 
+.head-wraper {
+	background-image: url(/img/background-900.jpg);
+}
+
+.contact {
+	padding: 50px 0px 50px 0px;
+}
 .product {
 	margin: 20px 20px 20px 20px;
 	width: 250px;
